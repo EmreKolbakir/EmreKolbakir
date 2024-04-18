@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello there! I'm Emre, a sophomore second-year Computer Science student and a member of a Rover Team at the Planetary Robotics Lab. We are all about developing Mars rovers, and I specialize in the Computer Science division. 🖥️ 🌌
+Hello there! I'm Emre, a sophomore Computer Science student and a member of a Rover Team at the Planetary Robotics Lab. We are all about developing robotic systems to solve extra terrestrial problems, and I work under the Computer Science division. 🖥️ 🌌
 
 When I'm not contemplating the mysteries of outer space, you can find me assisting in the realm of numbers as a Mathematics Teaching Assistant at my university. 📚🧮
 
