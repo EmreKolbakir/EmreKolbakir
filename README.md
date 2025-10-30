@@ -1,7 +1,6 @@
 <!-- HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141417,80:141417,84:8B0000,88:FF0000,92:D49D2A,96:4A82A8,100:9CB4C5&height=200&section=header&text=Emre%20Kolbakır&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,25:FF0000,50:D49D2A,75:4A82A8,100:9CB4C5&height=185&section=header&text=Emre%20Kolbakır&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=D49D2A&center=true&vCenter=true&width=650&lines=BSc+in+Computer+Science;AI+%26+Computer+Vision+Developer;Machine+Learning+Researcher;Building+Intelligent+Perception+Systems">
@@ -97,3 +96,5 @@ I currently work part-time in the IT Department of Özyeğin University, where w
 - [![Web Page](https://img.shields.io/badge/Website-emreklbkr.com-4A82A8?style=for-the-badge&logo=link&logoColor=white)](https://emreklbkr.com)  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emre%20Kolbakır-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emre-kolbakır-0a2631278)  
 - [![GitHub](https://img.shields.io/badge/GitHub-EmreKolbakir-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EmreKolbakir)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,25:FF0000,50:D49D2A,75:4A82A8,100:9CB4C5&height=125&section=footer" alt="Footer"/>
